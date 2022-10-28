@@ -1,0 +1,17 @@
+.btn {
+    width: 90px;
+    height: 40px;
+    background-color: grey;
+    font-size: medium;
+    font-weight: 600;
+    border: 0;
+    color: white;
+    margin: 0 auto;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+.btn:hover {
+    border-radius: 3px;
+    border: rgb(20, 0, 46) solid 1px;
+    cursor: pointer;
+}
